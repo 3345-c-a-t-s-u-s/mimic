@@ -1,2 +1,0 @@
-# mimic
-Nightmare Circus
